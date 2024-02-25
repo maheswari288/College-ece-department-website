@@ -1,0 +1,24 @@
+.button{
+    text-align: center;
+    color:white;
+    background-color: #00BFFF;
+}
+
+.aboutname{
+    color:white;
+    text-align: center;
+    font-weight:bolder;
+    font-size:60px;
+    padding-top : 50px;
+
+    font-style: italic;
+}
+
+.aboutp{
+    
+    font-size:30px;
+    color:white;
+    font-style: italic;
+    text-align: center;
+
+}

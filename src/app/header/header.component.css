@@ -1,0 +1,86 @@
+.container-fluid{
+    margin: 0px;
+}
+
+
+.col-lg-2{
+    padding-top: 10px;
+    margin: 0;
+    color:white;
+     text-decoration: none;
+}
+
+
+.icon{
+    
+    color:blue;
+    font-size: x-large;
+    padding-left: 60px;
+   
+   
+}
+.pages{
+    text-decoration:none;
+    
+}
+
+.header1{
+ 
+    background-color:white;
+    height: 150px;
+    text-align: center;
+}
+h4{
+    color:#00BFFF;
+    font-weight:bolder;
+    font-style:oblique;
+    font-size:x-large;
+}
+
+h5{
+    color:rgb(110, 38, 14);
+    text-align: center;
+    
+
+}
+
+.naac{
+    height: 30px;
+    width:30px;
+    padding-top: 5px;;
+}
+
+.logo{
+    height:200px;
+    width:100px;
+}
+
+.header2{
+    background-color:#002D62;
+    height: 55px;
+    font-size:large;
+    text-align: center;
+    padding-top: 4px;
+   
+    color:white;
+   
+
+   
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  

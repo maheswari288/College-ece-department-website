@@ -1,0 +1,110 @@
+.magnify{
+    transition: transform .2s;
+    /*animation*/
+
+    }
+.magnify:hover{
+    transform :scale(1.05);
+}
+
+.heading{
+    padding-top: 20px;
+    height:100px;
+    color:brown;
+}
+.card-text{
+text-align: center;
+}
+.card-body{
+    text-align:center;
+}
+.eceimage{
+    padding-top:40px;
+    padding-bottom: 20px;
+}
+
+.aboutname{
+    color:white;
+    text-align: center;
+    font-weight:bolder;
+    font-size:60px;
+    padding-top : 50px;
+
+    font-style: italic;
+}
+
+.aboutp{
+    
+    font-size:30px;
+    color:white;
+    font-style: italic;
+    text-align: center;
+
+}
+
+
+.depthh{
+  color:#13274F;
+  font-style: italic;
+ 
+
+}
+.depth1{
+    font-style: italic;
+    color:#13274F;
+    font-weight: 700px;
+    font-weight:bolder;
+    font-size: 30px;
+    
+
+}
+
+
+.title{
+    padding-top: 30px;
+    text-align: center;
+    font-style:oblique;
+    font-weight: 600px;
+    font-size: 70px;
+  font-weight:bolder;
+}
+
+
+
+hr.new5 {
+    border: 3px  solid red;
+    border-radius: 4px;
+    width:75%;
+    margin-left: 30px;
+  }
+
+
+  hr.new6 {
+    border: 3px solid red;
+    border-radius: 4px;
+    width:75%;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

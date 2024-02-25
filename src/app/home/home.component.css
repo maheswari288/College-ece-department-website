@@ -1,0 +1,45 @@
+.rowslider{
+    height:600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+   
+}
+.slidercontent{
+    padding-left:100px ;
+    padding-top:300px;
+    margin-left: 50px;
+    color:white;
+    height:600px;
+}
+
+.style{
+  
+    text-align: center;
+   
+    margin-left:90px;
+    font-size: 60px;
+}
+.magnify{
+    transition: transform .2s;
+    /*animation*/
+
+    }
+.magnify:hover{
+    transform :scale(1.05);
+}
+
+
+hr.new5 {
+    border: 3px  solid red;
+    border-radius: 4px;
+    width:75%;
+    margin-left: 30px;
+  }
+
+
+  hr.new6 {
+    border: 3px solid red;
+    border-radius: 4px;
+    width:75%;
+  }

@@ -1,0 +1,55 @@
+.aboutname{
+    color:white;
+    text-align: center;
+    font-weight:bolder;
+    font-size:60px;
+    padding-top : 50px;
+
+    font-style: italic;
+}
+
+.aboutp{
+    
+    font-size:30px;
+    color:white;
+    font-style: italic;
+    text-align: center;
+
+}
+.heading{
+    color:#362511;
+    font-style: italic;
+    font-weight: 50px;
+    margin-left:30px;
+}
+
+.magnify{
+    transition: transform .2s;
+    /*animation*/
+
+    }
+.magnify:hover{
+    transform :scale(1.05);
+}
+
+
+
+  hr.new5 {
+    border: 3px  solid red;
+    border-radius: 4px;
+    width:75%;
+    margin-left: 30px;
+  }
+
+
+  hr.new6 {
+    border: 3px solid red;
+    border-radius: 4px;
+    width:75%;
+  }
+
+  .button{
+    
+      border-radius: 50%;
+     
+  }
